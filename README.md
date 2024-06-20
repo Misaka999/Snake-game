@@ -84,6 +84,11 @@ Furthermore, the monster is also programmed to be motioned in the direction towa
  - Timer for the game will never be paused. 
 10. Game Termination
  The game ends when the snake consumes all the food items and its body is fully extended, in this case “Winner” or the monster caught the snake, in this case “Game Over”. 
+
+![](https://raw.githubusercontent.com/Misaka999/MarkdownPhotos/main/fail.png)
+
+ ![](https://raw.githubusercontent.com/Misaka999/MarkdownPhotos/main/win.png)
+
  
 11. Game Startup  
 -  On startup, show (1) a brief reminder on how the game starts, (2) the snake (in red) positioned at center and (3) the monster (purple) at a random position far enough from the snake. 
